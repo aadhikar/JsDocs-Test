@@ -1,0 +1,30 @@
+{
+  "name": "jsdocstest",
+  "version": "1.0.0",
+  "description": "This is a simple demonstration on Javascript API documentation using JsDocs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadhikar/JsDocs-Test.git"
+  },
+  "author": "Anilkumar A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadhikar/JsDocs-Test/issues"
+  },
+  "homepage": "https://github.com/aadhikar/JsDocs-Test#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "fd-gulp-convert-encoding": "0.0.1",
+    "gulp": "^3.9.1",
+    "gulp-jsdoc": "^0.1.5",
+    "gulp-jsdoc3": "^1.0.1"
+  },
+  "dependencies": {
+    "gulp-jsdoc": "^0.1.5",
+    "gulp-jsdoc3": "^1.0.1"
+  }
+}
